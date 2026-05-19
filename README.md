@@ -72,11 +72,7 @@ const angelina = {
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 &nbsp;
-<!-- 👇 Replace YOUR_CF_HANDLE below with your Codeforces handle -->
-<a href="https://codeforces.com/profile/YOUR_CF_HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-&nbsp;
+
 <a href="https://github.com/angelina10504" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
