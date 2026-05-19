@@ -114,23 +114,22 @@ const angelina = {
 ## 📊 &nbsp;GitHub Stats
 
 <a href="https://github.com/angelina10504">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=angelina10504&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=angelina10504&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&cache_seconds=1800" />
 </a>
 &nbsp;
 <a href="https://github.com/angelina10504">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelina10504&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelina10504&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&cache_seconds=1800" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/angelina10504">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelina10504&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=angelina10504&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="GitHub Streak" />
 </a>
 
 </div>
 
 <br/>
-
 <!-- ============== CONTRIBUTION GRAPH ============== -->
 <div align="center">
 
