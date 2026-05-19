@@ -38,17 +38,12 @@ const angelina = {
     database: ["MongoDB", "PostgreSQL", "Redis"],
     devops:   ["Docker", "AWS", "CI/CD", "Git"],
   },
-  dsa:        "1500+ problems solved",
+  dsa:        "150+ problems solved",
   passions:   ["Scalable systems", "Clean architecture", "Dev DX"],
   motto:      "Ship clean. Scale smart. Iterate fast."
 };
 ```
 
-🔭 &nbsp;Currently building **scalable web applications** end-to-end <br/>
-🌱 &nbsp;Deepening **distributed systems & low-level system design** <br/>
-🧩 &nbsp;Active on **LeetCode** & **Codeforces** — competitive coder mindset <br/>
-💬 &nbsp;Ask me about **React, Node, MongoDB, architecture, DSA** <br/>
-⚡ &nbsp;Fun fact: I treat **clean code** like a love language
 
 </td>
     <td width="42%" align="center" valign="middle">
