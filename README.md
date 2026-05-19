@@ -113,13 +113,15 @@ const angelina = {
 
 ## 📊 &nbsp;GitHub Stats
 
-<a href="https://github.com/angelina10504">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=angelina10504&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&cache_seconds=1800" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelina10504&theme=tokyonight" height="180"/>
 &nbsp;
-<a href="https://github.com/angelina10504">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelina10504&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5&cache_seconds=1800" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelina10504&theme=tokyonight" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelina10504&theme=tokyonight&utcOffset=5.5" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelina10504&theme=tokyonight" />
 
 <br/><br/>
 
