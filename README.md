@@ -2,7 +2,7 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║   Angelina Gupta — GitHub Profile README                         ║
   ║   Theme: tokyonight (dark)                                       ║
-  ║   👉 Drop this file at: github.com/angelina10504/angelina10504   ║
+  ║   👉 Drop this file at: github.com/angelina10504   ║
   ║      (repo name must match your username for it to appear)       ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
