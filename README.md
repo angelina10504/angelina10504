@@ -13,7 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Angelina%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack+and+Product+Engineer+%7C+Problem+Solver&descAlignY=62&descSize=18" width="100%" />
 
 <a href="https://github.com/angelina10504">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+3%2B+yrs+Full-Stack;React.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;1500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Scalable%2C+Clean%2C+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+3%2B+yrs+Full-Stack;React.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;150%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
 </div>
