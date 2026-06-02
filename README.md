@@ -62,10 +62,7 @@ const angelina = {
 <a href="https://www.linkedin.com/in/angelina-gupta-50827b26b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
-<a href="https://leetcode.com/u/angelina10__/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+
 &nbsp;
 
 <a href="https://github.com/angelina10504" target="_blank">
