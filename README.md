@@ -153,18 +153,6 @@ const angelina = {
 
 <br/>
 
-<!-- ============== LEETCODE STATS ============== -->
-<div align="center">
-
-## 🧠 &nbsp;LeetCode Stats
-
-<a href="https://leetcode.com/u/angelina10__/">
-  <img src="https://leetcard.jacoblin.cool/angelina10__?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats" />
-</a>
-
-</div>
-
-<br/>
 
 <!-- ============== QUOTE ============== -->
 <div align="center">
