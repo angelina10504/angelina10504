@@ -94,7 +94,7 @@ const angelina = {
 <a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark" /></a>
 
 <p><strong>Tools</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,webpack&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel&theme=dark" /></a>
 
 </div>
 
