@@ -82,19 +82,19 @@ const angelina = {
 <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" /></a>
 
 <p><strong>Frontend</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,vite&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /></a>
 
 <p><strong>Backend</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,prisma&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></a>
 
 <p><strong>Databases</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" /></a>
 
 <p><strong>DevOps & Cloud</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,linux,git,github&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark" /></a>
 
 <p><strong>Tools</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,jest,webpack&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,webpack&theme=dark" /></a>
 
 </div>
 
