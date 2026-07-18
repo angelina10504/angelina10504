@@ -45,15 +45,6 @@ const angelina = {
 ```
 
 
-</td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="coding animation"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ============== CONNECT WITH ME ============== -->
 <div align="center">
 
@@ -66,8 +57,6 @@ const angelina = {
 &nbsp;
 
 </div>
-
-<br/>
 
 <!-- ============== TECH STACK ============== -->
 <div align="center">
