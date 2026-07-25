@@ -1,164 +1,151 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║   Angelina Gupta — GitHub Profile README                         ║
-  ║   Theme: tokyonight (dark)                                       ║
-  ║   👉 Drop this file at: github.com/angelina10504/angelina10504   ║
-  ║      (repo name must match your username for it to appear)       ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  Angelina Gupta — GitHub Profile README
+  Repo: github.com/angelina10504/angelina10504
+  Palette (sampled from header.jpg):
+    sage    #5E7855   forest  #223933   deep teal #193539
+    steel   #3A6875   sky     #527D8D   mint text #C7D6CF
+    accent  #8FB57A   bg      #0E1A18
 -->
 
-<!-- ============== HEADER BANNER ============== -->
+<!-- ─────────────  BANNER  ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Angelina%20Gupta&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack+and+Product+Engineer+%7C+Problem+Solver&descAlignY=62&descSize=18" width="100%" />
+<!-- Put header.jpg at assets/header.jpg in this repo -->
+<img src="./assets/header.jpg" alt="Angelina Gupta — AI/ML Engineer" width="100%" />
 
 <a href="https://github.com/angelina10504">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Software+Engineer+%7C+3%2B+yrs+Full-Stack;React.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+System+Design;150%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Building+Scalable%2C+Production-Grade+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8FB57A&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%7C+B.Tech+CSE+(AI+%26+ML)%2C+Class+of+2027;Cloud+%26+Data+Intern+%40+Adani+Enterprises;Android+Developer+%40+Remote+Data+Solutions;Agentic+LLM+systems+%E2%80%A2+Forecasting+%E2%80%A2+On-device+ML" alt="Typing SVG" />
 </a>
+
+<a href="https://angelinagupta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-527D8D?style=for-the-badge&logo=vercel&logoColor=E8F0EA" /></a>
+<a href="https://www.linkedin.com/in/angelina-gupta-50827b26b/"><img src="https://img.shields.io/badge/LinkedIn-3A6875?style=for-the-badge&logo=linkedin&logoColor=E8F0EA" /></a>
+<a href="https://leetcode.com/u/angelina10__/"><img src="https://img.shields.io/badge/LeetCode-223933?style=for-the-badge&logo=leetcode&logoColor=E8F0EA" /></a>
+<a href="mailto:guptaangelina.5.10@gmail.com"><img src="https://img.shields.io/badge/Email-5E7855?style=for-the-badge&logo=gmail&logoColor=E8F0EA" /></a>
 
 </div>
 
-<br/>
+---
 
-<!-- ============== INTRO + CODER GIF ============== -->
-<table align="center" border="0">
-  <tr>
-    <td width="58%" valign="middle">
+## About
 
-### 👩‍💻 &nbsp;About Me
+I build **machine learning systems that actually ship** — forecasting pipelines on AWS, agentic LLM workflows, and on-device ML inside Android apps. Currently a final-year CSE (AI & ML) undergrad splitting time between a cloud & data internship and production mobile work.
 
-```ts
-const angelina = {
-  role:       "Software Engineer",
-  experience: "3+ years",
-  focus:      ["Full-Stack", "Product Engineering", "System Design"],
-  stack:      {
-    frontend: ["React.js", "Next.js", "TypeScript"],
-    backend:  ["Node.js", "Express", "REST", "GraphQL"],
-    database: ["MongoDB", "PostgreSQL", "Redis"],
-    devops:   ["Docker", "AWS", "CI/CD", "Git"],
-  },
-  dsa:        "150+ problems solved",
-  passions:   ["Scalable systems", "Clean architecture", "Dev DX"],
-  motto:      "Ship clean. Scale smart. Iterate fast."
-};
+```python
+class Angelina:
+    role      = "AI/ML Engineer"
+    education = "B.Tech CSE (AI & ML) @ BML Munjal University, '27"
+    day_job   = ["Cloud & Data Intern @ Adani Enterprises",
+                 "Android Developer @ Remote Data Solutions"]
+    building  = ["multi-agent LLM copilots", "solar generation forecasting",
+                 "on-device OCR pipelines"]
+    shipped   = ["bharatpay-mcp → PyPI", "ROU Track → Play Store"]
+    learning  = ["MLOps: MLflow · DVC · Evidently", "DSA in Java", "System design"]
+
+    def reach(self): return "guptaangelina.5.10@gmail.com"
 ```
 
-
-<!-- ============== CONNECT WITH ME ============== -->
-<div align="center">
-
-## 🌐 &nbsp;Connect With Me
-
-<a href="https://www.linkedin.com/in/angelina-gupta-50827b26b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-&nbsp;
-
-</div>
-
-<!-- ============== TECH STACK ============== -->
-<div align="center">
-
-## 🛠️ &nbsp;Tech Stack
-
-<p><strong>Languages</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" /></a>
-
-<p><strong>Frontend</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /></a>
-
-<p><strong>Backend</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></a>
-
-<p><strong>Databases</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" /></a>
-
-<p><strong>DevOps & Cloud</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark" /></a>
-
-<p><strong>Tools</strong></p>
-<a href="#"><img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel&theme=dark" /></a>
-
-</div>
+<details>
+<summary><b>🔭 &nbsp;What I'm working on right now</b></summary>
 
 <br/>
 
-<!-- ============== GITHUB STATS ============== -->
+- **PRAKAT** — a LangGraph multi-agent co-pilot that drafts and compliance-checks SME IPO offer documents against SEBI ICDR regulations. Shortlisted to the prototype round of the **SEBI Securities Market TechSprint @ GFF 2026**.
+- **Fault classification at scale** — LightGBM pipeline over ~220M rows of SCADA telemetry from a solar plant, as part of my Adani internship.
+- **EV Track** — dual-engine on-device OCR (PaddleOCR via ONNX Runtime + ML Kit) that reads EV scooter dashboards and merges both engines' output with per-field confidence arbitration.
+- **MLOps retrofit** — wrapping the solar forecasting stack in DVC, MLflow Model Registry, GitHub Actions CI/CD and drift monitoring.
+
+</details>
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| **AI / ML** | Python · scikit-learn · LightGBM · Prophet · PyTorch · pandas · NumPy |
+| **LLMs & Agents** | LangChain · LangGraph · MCP · RAG · tool-use loops · Groq |
+| **Data & Cloud** | AWS S3 · Glue · Athena · SageMaker · Lambda · API Gateway · Docker |
+| **Backend** | FastAPI · Node.js · Express · REST · JWT · Socket.IO · PostgreSQL · MongoDB |
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
+| **Mobile** | Kotlin · Java · Android SDK · CameraX · Room · WorkManager · ONNX Runtime |
+| **MLOps & Dev** | MLflow · DVC · GitHub Actions · Git · Linux · Postman · Figma |
+
 <div align="center">
 
-## 📊 &nbsp;GitHub Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelina10504&theme=tokyonight" height="180"/>
+<img src="https://img.shields.io/badge/Python-5E7855?style=flat-square&logo=python&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Kotlin-5E7855?style=flat-square&logo=kotlin&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Java-5E7855?style=flat-square&logo=openjdk&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/TypeScript-5E7855?style=flat-square&logo=typescript&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/SQL-5E7855?style=flat-square&logo=postgresql&logoColor=E8F0EA" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelina10504&theme=tokyonight" height="180"/>
+<img src="https://img.shields.io/badge/LangChain-2F5A55?style=flat-square&logo=langchain&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/LangGraph-2F5A55?style=flat-square&logo=chainlink&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/scikit--learn-2F5A55?style=flat-square&logo=scikitlearn&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/PyTorch-2F5A55?style=flat-square&logo=pytorch&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/ONNX-2F5A55?style=flat-square&logo=onnx&logoColor=E8F0EA" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-1D3A42?style=flat-square&logo=amazonwebservices&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Docker-1D3A42?style=flat-square&logo=docker&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/MLflow-1D3A42?style=flat-square&logo=mlflow&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/GitHub_Actions-1D3A42?style=flat-square&logo=githubactions&logoColor=E8F0EA" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-3A6875?style=flat-square&logo=fastapi&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Node.js-3A6875?style=flat-square&logo=nodedotjs&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Next.js-3A6875?style=flat-square&logo=nextdotjs&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/React-3A6875?style=flat-square&logo=react&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Tailwind-3A6875?style=flat-square&logo=tailwindcss&logoColor=E8F0EA" />
+&nbsp;
+<img src="https://img.shields.io/badge/Android-527D8D?style=flat-square&logo=android&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/MongoDB-527D8D?style=flat-square&logo=mongodb&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/PostgreSQL-527D8D?style=flat-square&logo=postgresql&logoColor=E8F0EA" />
+<img src="https://img.shields.io/badge/Linux-527D8D?style=flat-square&logo=linux&logoColor=E8F0EA" />
+
+</div>
+
+---
+
+## Featured Work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[BharatPay MCP](https://github.com/angelina10504/bharatpay-mcp)** <br/> `pip install bharatpay-mcp` | Open-source MCP server exposing seven Indian fintech tools — IFSC, PAN, GSTIN, pincode, mutual-fund NAV, UPI VPA and INR formatting — to any LLM client. 17 unit tests, published to PyPI. | Python · MCP · pytest |
+| **[TaskFlow](https://taskflow-dpsa.vercel.app)** | Multi-tenant project management app with an agentic AI layer: velocity intelligence plus a tool-use loop the model drives itself. Multi-tenant RBAC, dual-token JWT, realtime updates. | Next.js · Node · Socket.IO · Groq Llama 3.3 70B |
+| **[Bhadla Solar Forecasting](https://solar-forecast-one.vercel.app)** | End-to-end day-ahead generation forecasting for a utility-scale solar plant. Quantile regression + physics-informed features; **93% improvement over the persistence baseline** on an Oct–Dec 2024 holdout. | AWS S3/Glue/Athena/SageMaker · LightGBM · Prophet · pvlib · Lambda · Next.js |
+| **[Learning Assistant](https://github.com/angelina10504/learning-assistant)** | Agentic study planner that does RAG over your own course material and plans what to study next. | Python · LangGraph · RAG |
+| **EV Track** | Android app that reads EV scooter dashboards on-device — odometer, battery, range — and turns charge sessions into a battery health score. Two OCR engines run concurrently and their outputs are merged with confidence arbitration. | Kotlin · CameraX · PaddleOCR (ONNX) · ML Kit · Room |
+| **ROU Track** *(Play Store)* | Field location-tracking app with offline-first auth, a WorkManager service watchdog and FFmpeg video compression. | Java · Android · PHP/MySQL |
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=angelina10504&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0E1A18&title_color=8FB57A&text_color=C7D6CF&icon_color=6FA3B8" alt="GitHub stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelina10504&layout=compact&langs_count=8&hide_border=true&bg_color=0E1A18&title_color=8FB57A&text_color=C7D6CF" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angelina10504&theme=tokyonight&utcOffset=5.5" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelina10504&theme=tokyonight" />
+<img width="49%" src="https://leetcard.jacoblin.cool/angelina10__?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" />
 
 <br/><br/>
 
-<a href="https://github.com/angelina10504">
-  <img src="https://streak-stats.demolab.com/?user=angelina10504&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" alt="GitHub Streak" />
-</a>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=angelina10504&custom_title=Contribution%20Activity&bg_color=0E1A18&color=8FB57A&line=6FA3B8&point=C7D6CF&area=true&area_color=3B5343&hide_border=true&radius=8" alt="Activity graph" />
 
 </div>
 
-<br/>
-<!-- ============== CONTRIBUTION GRAPH ============== -->
-<div align="center">
-
-## 📈 &nbsp;Contribution Graph
-
-<a href="https://github.com/angelina10504">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelina10504&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=F7768E&area=true&hide_border=true" width="98%" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ============== GITHUB TROPHIES ============== -->
-<div align="center">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<a href="https://github.com/angelina10504">
-  <img src="https://github-profile-trophy.vercel.app/?username=angelina10504&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</a>
-
-</div>
-
-<br/>
-
-
-<!-- ============== QUOTE ============== -->
-<div align="center">
-
-## 💭 &nbsp;Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-
-</div>
-
-<br/>
-
-<!-- ============== PROFILE VIEWS ============== -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=angelina10504&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<!-- ============== FOOTER WAVE ============== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+---
 
 <div align="center">
 
-⭐ &nbsp;**From [angelina10504](https://github.com/angelina10504)** &nbsp;•&nbsp; *Crafted with clean code & caffeine*
+### Let's build something
+
+I'm looking for **AI/ML engineering internships and roles** — reach out if you're working on applied ML, agentic systems, or anything where models have to survive contact with real data.
+
+<a href="mailto:guptaangelina.5.10@gmail.com"><img src="https://img.shields.io/badge/Say_hello-5E7855?style=for-the-badge&logo=minutemailer&logoColor=E8F0EA" /></a>
+<a href="https://angelinagupta.vercel.app"><img src="https://img.shields.io/badge/See_my_work-527D8D?style=for-the-badge&logo=googlechrome&logoColor=E8F0EA" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E7855,45:1D3A42,100:527D8D&height=110&section=footer" width="100%" />
 
 </div>
