@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- Put header.jpg at assets/header.jpg in this repo -->
-<img src="./assets/header.jpg" alt="Angelina Gupta — AI/ML Engineer" width="100%" />
+<img src="header.jpg" alt="Angelina Gupta — AI/ML Engineer" width="100%" />
 
 <a href="https://github.com/angelina10504">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8FB57A&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%7C+B.Tech+CSE+(AI+%26+ML)%2C+Class+of+2027;Cloud+%26+Data+Intern+%40+Adani+Enterprises;Android+Developer+%40+Remote+Data+Solutions;Agentic+LLM+systems+%E2%80%A2+Forecasting+%E2%80%A2+On-device+ML" alt="Typing SVG" />
